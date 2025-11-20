@@ -10,7 +10,6 @@ export default function () {
       }}
     >
       <div>
-        <img src="https://i.imgur.com/lhaMADj.jpg"></img>
         <div
           style={{
             display: "flex",
@@ -18,10 +17,7 @@ export default function () {
             justifyContent: "space-between",
             height: 95,
           }}
-        >
-          <SephoraIcon></SephoraIcon>
-          <img src="https://i.imgur.com/d3tmwL3.png"></img>
-        </div>
+        ></div>
       </div>
     </div>
   );
