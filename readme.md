@@ -327,56 +327,6 @@ if (token) {
     })}
 
 ```
-## Key Learning
-
-## Create Makeup Artist
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/create makeup artist.png" alt="create-makeup-artist"></a>
-</p>
-<br>
-
-## Creating Appointments
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/create appointments.png" alt="create-appointments"></a>
-</p>
-<br>
-
-## View Upcoming Appointments
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/view upcoming appointments.png" alt="view-upcoming-appointment"></a>
-</p>
-<br>
-
-## Map
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/map.png" alt="map"></a>
-</p>
-<br>
-
-## View Makeup Artist by Location
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/view makeup artist from admin.png" alt="view-makeup-artist-by-location"></a>
-</p>
-<br>
-
-## Appointment Booking with Condition
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/conditional appointment booking.png" alt="appointment-booking-with-condition"></a>
-</p>
-<br>
-
-## Authenticating Routes
- <p align="center">
-  <a href="" rel="noopener">
- <img style="max-width: 100%;" src="/images/authorizing routes.png" alt="authenticating-routes"></a>
-</p>
-<br>
 
 ## References
 
