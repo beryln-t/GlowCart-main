@@ -1,12 +1,8 @@
-# Sephora Web Application
+# GlowCart
 
 ## Description of the Application
 
-Sephora is a premier beauty and cosmetics retailer with a strong online presence as well as physical stores. The Sephora website is a comprehensive e-commerce platform, providing a wide range of makeup, skincare, hair care, fragrance, and beauty tools and accessories from multiple well-known brands. Our goal is to elevate the customer browsing and service booking experience by implementing a feature that enables them to effortlessly locate the nearest outlet with their desired products, as well as the option to choose from a diverse pool of expert makeup artists.
-
-### Deployment
-
-https://sephora.cyclic.app/
+This project is a mock beauty and cosmetics e-commerce platform developed as part of a school/team assignment. The design and feature flow were inspired by established beauty retailers such as Sephora, but this project is not affiliated with, endorsed by, or connected to Sephora in any form. Our goal was to study modern beauty retail user journeys and recreate a conceptual prototype that allows customers to browse products, locate nearby outlets carrying specific items, and book services with professional makeup artists.
 
 ## Timeframe
 
