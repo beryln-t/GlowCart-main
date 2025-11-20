@@ -21,9 +21,7 @@ This project is a mock beauty and cosmetics e-commerce platform developed as par
 - Cyclic (Deployment)
 - Leaflet
 - Momentjs
-
-## Screenshots of the Application
-
+  
 ---
 
 ## Model
